@@ -1,0 +1,11 @@
+{
+	"development": {
+		"db": {
+			"url": "postgres://<POSTGRES USER>:<POSTGRES PASSWORD>@<POSTGRES HOST>:<POSTGRES PORT>/jwtAuth"
+		},
+		"database": "jwtAuth",
+		"username": "<POSTGRES USER>",
+		"password": "<POSTGRES PASSWORD>",
+		"secret": "<JSON WEBTOKEN SECRET STRING>"
+	}
+}

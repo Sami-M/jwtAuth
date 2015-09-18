@@ -1,0 +1,14 @@
+{
+  "name": "jwtAuth",
+  "main": "server.js",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.13.3",
+    "express": "^4.13.3",
+    "jsonwebtoken": "^5.0.5",
+    "morgan": "^1.6.1",
+    "pg": "^4.4.1",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^3.8.0"
+  }
+}
